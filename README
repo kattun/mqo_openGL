@@ -1,1 +1,9 @@
 rubyでopenGL+メタセコイアのmqoを手軽に使えるようにしました。
+
+動作環境：
+windowsのみです。（win32apiを使用）windows7で動作確認。
+
+場合によっては、require 'rubygems'が必要かもしれないです。
+ruby 1.8.7で動作。
+
+gem-openglが必要。
